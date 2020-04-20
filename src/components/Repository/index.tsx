@@ -3,17 +3,25 @@ import { FiChevronRight } from 'react-icons/fi';
 
 import { Container } from './styles';
 
-const Repository: React.FC = () => {
+interface Props {
+  repository: {
+    full_name: string;
+    description: string;
+    owner: {
+      login: string;
+      avatar_url: string;
+    };
+  };
+}
+
+const Repository: React.FC<Props> = ({ repository }) => {
   return (
-    <Container to="/">
-      <img
-        src="https://avatars0.githubusercontent.com/u/26680031?s=460&u=a909bfb11e423eb271e07a420fe551621ac19409&v=4"
-        alt="Profile"
-      />
+    <Container to={`/repositories/${repository.full_name}`}>
+      <img src={repository.owner.avatar_url} alt={repository.owner.login} />
 
       <div>
-        <strong>rockeseat/Unform</strong>
-        <p>Descrição</p>
+        <strong>{repository.full_name}</strong>
+        <p>{repository.description}</p>
       </div>
 
       <FiChevronRight size={20} />
