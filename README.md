@@ -18,8 +18,8 @@
 
 <p align="center">
   <a href="#books-sobre-o-projeto">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#trophy-principais-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-instruções-de-instalação">Instruções</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#trophy-principais-funcionalidades">Principais Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#hammer-útil">Útil</a>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -29,6 +29,13 @@
 O GithubExplore tem como objetivo consumir a API do GitHub para consultar repositórios e salva-los no localStorage. Quando um repositório existente no GitHub é pesquisado dentro do campo de busca da aplicação, ele é salvo para ser acessado a qualquer momento de uma forma prática. 
 
 Esse projeto está online, pode ser acessado pelo link: ```https://githubexplore.netlify.app```
+
+<br/>
+
+## :trophy: Principais funcionalidades
+- Consumir API do GitHub
+- Pesquisar por repositórios do GitHub e salva-lo no localStorage
+
 <br/>
 
 ## :computer: Instruções de instalação
@@ -60,11 +67,6 @@ $ yarn start
 ```
 ![yarn-start-githubexplore](https://user-images.githubusercontent.com/26680031/80829073-d44ab600-8bbc-11ea-8ac1-c33bfead2527.PNG)
 
-<br/>
-
-## :trophy: Principais funcionalidades
-- Consumir API do GitHub
-- Pesquisar por repositórios do GitHub e salva-lo no localStorage
 
 <br/>
 
