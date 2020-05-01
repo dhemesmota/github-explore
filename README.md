@@ -32,8 +32,8 @@ Esse projeto está online, pode ser acessado pelo link: ```https://githubexplore
 <br/>
 
 ## :computer: Instruções de instalação
-:heavy_check_mark: Clone o repositório ou faça o download no formato zip, caso deseje clonar usando o git, basta abrir um terminal de linha de comandos, navegar até a pasta desejada onde ficará o projeto e em seguida siga os passos abaixo:<br/>
-Antes de mais nada certifique que você tenha um gerenciador de pacotes e o nodejs instalados em sua maquina.
+:heavy_check_mark: Clone o repositório ou faça o download no formato zip, caso deseje clonar usando o `git`, basta abrir um terminal de linha de comandos, navegar até a pasta desejada onde ficará o projeto e em seguida siga os passos abaixo:<br/>
+Antes de mais nada certifique que você tenha um gerenciador de pacotes e o `NodeJS` instalados em sua máquina.
 ```Bash
 # .../suapasta
 $ git clone git@github.com:dhemesmota/github-explore.git
@@ -43,14 +43,14 @@ $ cd github-explore
 $ |
 ```
 
-:heavy_check_mark: Agora é necessário baixar todas as dependencias do projeto para que possamos utiliza-lo:<br/>
+:heavy_check_mark: Agora é necessário baixar todas as dependências do projeto para que possamos utiliza-lo:<br/>
 Eu utilizo o `yarn`, mas você pode utilizar o `npm` se preferir.
 ```Bash
 # .../suapasta/github-explore
 $ yarn
 ```
 
-:heavy_check_mark: Show! Estamos pronto para executar a aplicação:<br/>
+:heavy_check_mark: Show! Estamos prontos para executar a aplicação:<br/>
 Como essa aplicação utilizar a API do GitHub basta executar e sair utilizando.
 ```Bash
 # .../suapasta/github-explore
@@ -61,7 +61,7 @@ $ yarn start
 
 ## :trophy: Principais funcionalidades
 - Consumir API do GitHub
-- Pesquisar por repositorios do GitHub e salva-lo no localStorage
+- Pesquisar por repositórios do GitHub e salva-lo no localStorage
 
 <br/>
 
