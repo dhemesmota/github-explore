@@ -42,6 +42,7 @@ $ cd github-explore
 # .../suapasta/github-explore
 $ |
 ```
+![clone-githubexplore](https://user-images.githubusercontent.com/26680031/80828575-e37d3400-8bbb-11ea-873f-2dadc3782a51.PNG)
 
 :heavy_check_mark: Agora é necessário baixar todas as dependências do projeto para que possamos utiliza-lo:<br/>
 Eu utilizo o `yarn`, mas você pode utilizar o `npm` se preferir.
@@ -49,6 +50,7 @@ Eu utilizo o `yarn`, mas você pode utilizar o `npm` se preferir.
 # .../suapasta/github-explore
 $ yarn
 ```
+![yarn-githubexplore](https://user-images.githubusercontent.com/26680031/80828866-669e8a00-8bbc-11ea-871f-1efff4e0e88f.PNG)
 
 :heavy_check_mark: Show! Estamos prontos para executar a aplicação:<br/>
 Como essa aplicação utilizar a API do GitHub basta executar e sair utilizando.
@@ -56,6 +58,7 @@ Como essa aplicação utilizar a API do GitHub basta executar e sair utilizando.
 # .../suapasta/github-explore
 $ yarn start
 ```
+![yarn-start-githubexplore](https://user-images.githubusercontent.com/26680031/80829073-d44ab600-8bbc-11ea-8ac1-c33bfead2527.PNG)
 
 <br/>
 
