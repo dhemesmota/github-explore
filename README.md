@@ -20,7 +20,7 @@
   <a href="#books-sobre-o-projeto">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-instruções-de-instalação">Instruções</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#trophy-principais-funcionalidades">Principais Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#hammer-útil">Útil</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#hammer-útil">Útil</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f827480c-6849-4083-ae43-7eb2df2ae034/deploy-status)](https://app.netlify.com/sites/githubexplore/deploys)
