@@ -8,8 +8,8 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dhemesmota/github-explore">
   <img alt="language version" src="https://img.shields.io/badge/Node-v_12.16.1-339933?logo=node.js">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/dhemesmota/github-explore">
-  <a href="https://app.codacy.com/manual/dhemesmota/github-explorer?utm_source=github.com&utm_medium=referral&utm_content=dhemesmota/github-explorer&utm_campaign=Badge_Grade_Dashboard">
-    <img src="https://api.codacy.com/project/badge/Grade/cdeaa970e74243a0bd902779f39e3200"/>
+  <a href="https://app.codacy.com/manual/dhemesmota/github-explore?utm_source=github.com&utm_medium=referral&utm_content=dhemesmota/github-explore&utm_campaign=Badge_Grade_Dashboard">
+    <img src="https://api.codacy.com/project/badge/Grade/5890108d0b4c411090648b73fc547257"/>
   </a>
   <img alt="GitHub License" src="https://img.shields.io/github/license/dhemesmota/github-explore">
 </p>
