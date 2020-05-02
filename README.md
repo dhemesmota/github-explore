@@ -25,6 +25,7 @@
   <a href="#hammer-útil">Útil</a>&nbsp;&nbsp;&nbsp;
 </p>
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5890108d0b4c411090648b73fc547257)](https://app.codacy.com/manual/dhemesmota/github-explore?utm_source=github.com&utm_medium=referral&utm_content=dhemesmota/github-explore&utm_campaign=Badge_Grade_Dashboard)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f827480c-6849-4083-ae43-7eb2df2ae034/deploy-status)](https://app.netlify.com/sites/githubexplore/deploys)
 
 ## :books: Sobre o projeto
