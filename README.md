@@ -6,9 +6,11 @@
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dhemesmota/github-explore">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dhemesmota/github-explore">
-  <img alt="GiHub Issues" src="https://img.shields.io/github/issues/dhemesmota/github-explore" >
+  <img alt="language version" src="https://img.shields.io/badge/Node-v_12.16.1-339933?logo=node.js">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/dhemesmota/github-explore">
+  <a href="https://app.codacy.com/manual/dhemesmota/github-explorer?utm_source=github.com&utm_medium=referral&utm_content=dhemesmota/github-explorer&utm_campaign=Badge_Grade_Dashboard">
+    <img src="https://api.codacy.com/project/badge/Grade/cdeaa970e74243a0bd902779f39e3200"/>
+  </a>
   <img alt="GitHub License" src="https://img.shields.io/github/license/dhemesmota/github-explore">
 </p>
 
@@ -33,8 +35,8 @@ Esse projeto está online, pode ser acessado pelo link: ```https://githubexplore
 <br/>
 
 ## :trophy: Principais funcionalidades
-- Consumir API do GitHub
-- Pesquisar por repositórios do GitHub e salva-lo no localStorage
+-   Consumir API do GitHub
+-   Pesquisar por repositórios do GitHub e salva-lo no localStorage
 
 <br/>
 
@@ -88,3 +90,8 @@ $ yarn start
 ## :memo: Licença
 Este projeto está sob a licença MIT.[Licença](https://github.com/dhemesmota/github-explore/blob/master/LICENSE.md)
 
+---
+
+Feito por :point_right: [Dhemes Mota][dhemesmota]
+
+[dhemesmota]: https://github.com/dhemesmota
